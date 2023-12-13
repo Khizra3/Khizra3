@@ -1,7 +1,7 @@
 - 👋 Hi! I'm Khizra Hussain  
-- 👀 I talk about scrum/agile practices, datasets, data analysis
+- 📢 I talk about scrum/agile practices, datasets, data analysis
 - 🌱 I’m currently attending a data science boot camp
-- 💞️ I’m looking to collaborate with Project managers, Data analysts, Data scientists
+- 🤝 I’m looking to collaborate with Project managers, Data analysts, Data scientists
 - 📫 You can reach me at khizrahsabri@gmail.com 
 
 <!---
